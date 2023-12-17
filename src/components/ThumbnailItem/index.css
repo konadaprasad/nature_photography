@@ -1,0 +1,18 @@
+/* Write your code here. */
+.image-card {
+  margin: 10px;
+}
+
+.image-2 {
+  height: 100px;
+  width: 100px;
+}
+.button1 {
+  border-width: 0px;
+  border-style: solid;
+  opacity: 0.5;
+}
+.button2 {
+  border-width: 0px;
+  border-style: solid;
+}
